@@ -1,0 +1,14 @@
+# Environment variables — contains real API keys and credentials
+.env
+
+# Downloaded article images — binary files, not needed in repo
+article_images/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
